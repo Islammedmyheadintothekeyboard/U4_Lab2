@@ -1,0 +1,1 @@
+1. What makes stacks ideal for this assignment is how elements are stored in the stack as the last thing to be added is at the top of the stack so all you have to do is pop and and the returned element to a new string.
